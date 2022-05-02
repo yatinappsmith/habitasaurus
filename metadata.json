@@ -1,6 +1,20 @@
 {
   "clientSchemaVersion": 1,
   "serverSchemaVersion": 4,
+  "pageOrder": [
+    "Habit",
+    "Task",
+    "Calendar",
+    "Habitold",
+    "Profile"
+  ],
+  "publishedPageOrder": [
+    "Habit",
+    "Task",
+    "Calendar",
+    "Habitold",
+    "Profile"
+  ],
   "publishedDefaultPageName": "Task",
   "unpublishedDefaultPageName": "Task",
   "invisibleActionFields": {

@@ -3237,9 +3237,9 @@
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
-                "Select3.selectedOptionLabel",
-                "List1.pageSize",
                 "(List1.pageNo - 1) * List1.pageSize",
+                "List1.pageSize",
+                "Select3.selectedOptionLabel",
                 "appsmith.store.ProjectName"
               ],
               "timeoutInMillisecond": 10000
