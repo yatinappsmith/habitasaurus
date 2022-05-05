@@ -6,7 +6,7 @@
     "pluginType": "JS",
     "actions": [],
     "archivedActions": [],
-    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tstartjsfn: () => {\n\t\t//write code here\n\t\tstoreValue(\"ProjectName\",'%');\n\t\tif (appsmith.store.PrimaryColor === null) {\n\n\t\t\tstoreValue(\"PrimaryColor\",'#39603D');\n\t\t\tstoreValue(\"BackgroundColor\",'#A3BCB6');\n\t\t\tstoreValue(\"FontColor\",'#3C403D');\n\t\t\tstoreValue(\"SecondaryColor\",'#DADED4')\n\t\t}\n\t\t\n\t},\n\tmyFun2: async () => {\n\t\t//use async-await or promises\n\t}\n}",
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tstartjsfn: () => {\n\t\t//write code here\n\t\tstoreValue(\"ProjectName\",'%');\n\t\tif (appsmith.store.PrimaryColor === null) {\n\t\t\tstoreValue(\"PrimaryColor\",'#39603D');\n\t\t\tstoreValue(\"BackgroundColor\",'#A3BCB6');\n\t\t\tstoreValue(\"FontColor\",'#3C403D');\n\t\t\tstoreValue(\"SecondaryColor\",'#DADED4');\n\t\t}\n\t\t\n\t},\n\tmyFun2: async () => {\n\t\t//use async-await or promises\n\t}\n}",
     "variables": [
       {
         "name": "myVar1",

@@ -2,18 +2,18 @@
   "clientSchemaVersion": 1,
   "serverSchemaVersion": 4,
   "pageOrder": [
-    "Habit",
     "Task",
-    "Calendar",
     "Habitold",
-    "Profile"
+    "Profile",
+    "Calendar",
+    "Habit"
   ],
   "publishedPageOrder": [
-    "Habit",
     "Task",
-    "Calendar",
     "Habitold",
-    "Profile"
+    "Profile",
+    "Calendar",
+    "Habit"
   ],
   "publishedDefaultPageName": "Task",
   "unpublishedDefaultPageName": "Task",

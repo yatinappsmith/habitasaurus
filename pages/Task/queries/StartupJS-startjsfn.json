@@ -19,7 +19,7 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "() => {\n\t\t//write code here\n\t\tstoreValue(\"ProjectName\",'%');\n\t\tif (appsmith.store.PrimaryColor === null) {\n\n\t\t\tstoreValue(\"PrimaryColor\",'#39603D');\n\t\t\tstoreValue(\"BackgroundColor\",'#A3BCB6');\n\t\t\tstoreValue(\"FontColor\",'#3C403D');\n\t\t\tstoreValue(\"SecondaryColor\",'#DADED4')\n\t\t}\n\t\t\n\t}",
+      "body": "() => {\n\t\t//write code here\n\t\tstoreValue(\"ProjectName\",'%');\n\t\tif (appsmith.store.PrimaryColor === null) {\n\t\t\tstoreValue(\"PrimaryColor\",'#39603D');\n\t\t\tstoreValue(\"BackgroundColor\",'#A3BCB6');\n\t\t\tstoreValue(\"FontColor\",'#3C403D');\n\t\t\tstoreValue(\"SecondaryColor\",'#DADED4');\n\t\t}\n\t\t\n\t}",
       "jsArguments": [],
       "isAsync": true
     },
@@ -34,7 +34,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "() => {\n\t\t//write code here\n\t\tstoreValue(\"ProjectName\",'%');\n\t\tif (appsmith.store.PrimaryColor === null) {\n\n\t\t\tstoreValue(\"PrimaryColor\",'#39603D');\n\t\t\tstoreValue(\"BackgroundColor\",'#A3BCB6');\n\t\t\tstoreValue(\"FontColor\",'#3C403D');\n\t\t\tstoreValue(\"SecondaryColor\",'#DADED4')\n\t\t}\n\t\t\n\t}"
+      "() => {\n\t\t//write code here\n\t\tstoreValue(\"ProjectName\",'%');\n\t\tif (appsmith.store.PrimaryColor === null) {\n\t\t\tstoreValue(\"PrimaryColor\",'#39603D');\n\t\t\tstoreValue(\"BackgroundColor\",'#A3BCB6');\n\t\t\tstoreValue(\"FontColor\",'#3C403D');\n\t\t\tstoreValue(\"SecondaryColor\",'#DADED4');\n\t\t}\n\t\t\n\t}"
     ],
     "userSetOnLoad": true,
     "confirmBeforeExecute": false,

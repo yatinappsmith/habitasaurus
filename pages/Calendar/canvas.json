@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 56,
+          "version": 57,
           "minHeight": 800,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
@@ -2005,7 +2005,8 @@
                       "version": 1,
                       "parentId": "fa2iyp894z",
                       "renderMode": "CANVAS",
-                      "isLoading": false
+                      "isLoading": false,
+                      "alignment": "left"
                     }
                   ],
                   "isDisabled": false,
